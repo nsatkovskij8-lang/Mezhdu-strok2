@@ -1,0 +1,8 @@
+{
+  "name": "mezhdu-strok",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Личный дневник с искусственным интеллектом",
+  "author": "Николай Шатковский",
+  "license": "UNLICENSED"
+}
